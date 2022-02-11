@@ -1,5 +1,5 @@
 ## 💻 Projeto
-This project is an API that will have the CRUD of users and projects of those users.
+This project is an API (SQL in Node.js with Knex.js) that will have the CRUD of users and projects of those users.
 
 
 ## :hammer_and_wrench: Features 
