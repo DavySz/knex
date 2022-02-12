@@ -33,4 +33,6 @@ $ yarn start
 
 <br />
 
+<p align="center">Made with 💜 by Davy de Souza</p>
+
 <div align="center">
