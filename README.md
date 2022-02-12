@@ -1,4 +1,4 @@
-## 💻 Projeto
+## 💻 Project
 This project is an API (SQL in Node.js with Knex.js) that will have the CRUD of users and projects of those users.
 
 
@@ -15,12 +15,12 @@ This project is an API (SQL in Node.js with Knex.js) that will have the CRUD of 
 -   [ ] Soft Delete (user) 
 
 
-## ✨ Tecnologias
+## ✨ Technologies
 
--   [ ] Nodejs
--   [ ] PostgreSQL
--   [ ] Insomnia 
--   [ ] Javascript
+-   [Nodejs](https://nodejs.org/en/)
+-   [PostgreSQL](https://www.postgresql.org/)
+-   [Insomnia](https://insomnia.rest/)  
+-   [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) 
 
 ## 🚀 Getting started
 ```bash
